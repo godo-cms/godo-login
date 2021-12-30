@@ -1,0 +1,23 @@
+{
+  "name": "godo-login",
+  "version": "1.0.0",
+  "description": "godocms login module",
+  "main": "info.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/godo-cms/godo-login.git"
+  },
+  "keywords": [
+    "godocms",
+    "login"
+  ],
+  "author": "icanwallet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/godo-cms/godo-login/issues"
+  },
+  "homepage": "https://github.com/godo-cms/godo-login#readme"
+}
